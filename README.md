@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Tasky — A Clean Python To-Do App
 
 A lightweight, modern to-do list application built with **Flask** (Python) and plain HTML/CSS/JS. No database, no auth, no frameworks — just clean, beginner-friendly code.
