@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 19870f0cfd2c20f6a90a4c2ac8872fd14f170c6d
 # Tasky — A Clean Python To-Do App
 
 A lightweight, modern to-do list application built with **Flask** (Python) and plain HTML/CSS/JS. No database, no auth, no frameworks — just clean, beginner-friendly code.
@@ -135,3 +139,9 @@ No secrets or environment variables are required.
 
 - Tasks are stored in memory — they reset when the server restarts. Swap the `tasks` dict for SQLite or Redis for persistence.
 - No authentication is included by design (beginner-friendly scope).
+<<<<<<< HEAD
+=======
+=======
+# SCMProject
+>>>>>>> 5241dafd425896a3a26d6d596bb3093796b38e37
+>>>>>>> 19870f0cfd2c20f6a90a4c2ac8872fd14f170c6d
